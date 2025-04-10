@@ -65,10 +65,15 @@ Follow the code steps to input your resume and a job description. The model will
 
 AI-Job-Application-Assistant/
 ├── README.md
+
 ├── Capstone_Notebook.ipynb
+
 ├── assets/
+
 │   └── thumbnail.png
+
 └── examples/
+
     └── sample_outputs.json
 
 ## 📹 Demo & Blog
