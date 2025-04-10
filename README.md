@@ -96,10 +96,11 @@ Thanks to the Google Gen AI Intensive Team, Kaggle, and the amazing GenAI commun
 
 ## 📜 License
 
-MIT License – use and modify freely with attribution.
----
+This project is licensed under the MIT License.
 
-Would you like me to export this as a downloadable `.md` file or drop it directly into your GitHub structure?
+Note: You're free to use, share, and adapt this project with proper credit. Please do not rebrand, resell, or redistribute modified versions without clear attribution to the original author.
+
+© 2025 Sreeja Bethu. All rights reserved.
 
 
 
