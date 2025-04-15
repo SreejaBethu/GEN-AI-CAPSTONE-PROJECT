@@ -33,7 +33,9 @@ All of this is done using **Generative AI prompts and automation**, reducing man
 - **Retrieval-Augmented Generation (RAG-style prompts)**  
 - **Structured Output (JSON formatting)**  
 - **Agent-style Task Automation**  
-- **Prompt Engineering**
+- **Few-shot Prompt Engineering**
+- **Grounding**
+- **LOng Context Handling**
 
 ---
 
